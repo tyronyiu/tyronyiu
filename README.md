@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-[![Twitter icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/YiuTyron)  
-[**Medium**](https://medium.com/@stellarblog)
+- [![Twitter icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/YiuTyron)  
+- [**Medium**](https://medium.com/@stellarblog)
+- [Email](mailto:Tysinstances@gmail.com)
+- [Website](Simulacron-3.com)
 
 -------
 
