@@ -34,12 +34,13 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 
 [![Twitter icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/YiuTyron)  
-[**M**](https://medium.com/@stellarblog)
+[**Medium**](https://medium.com/@stellarblog)
 
 -------
 
   <div style="display: flex", flex-flow: row wrap">
+  
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=tyronyiu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyronyiu&hide=javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyronyiu&hide=html)
 </div>
