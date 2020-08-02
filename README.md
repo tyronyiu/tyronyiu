@@ -26,7 +26,9 @@ Here are some ideas to get you started:
   
 ### 👯 I’m looking to collaborate on
   1. SVG image generator that follows material card design
-  2. A hosted note taking system using only Bash, Vim & Git.
+  2. A "medium" bash cli for uploading markdown files
+  3. A hosted service providing public social icons for markdown use
+  4. A hosted note taking system using only Bash, Vim & Git
   
 ### 💬 Ask me about
 *anything*
